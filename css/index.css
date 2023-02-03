@@ -1,0 +1,19 @@
+.content {
+  width: 100vw;
+}
+
+#search-input {
+  width: 95vw;
+}
+
+#search-list {
+  list-style: none;
+}
+
+li {
+  border: 1px solid #222;
+}
+
+.highlight {
+  border-color: aqua !important;
+}
